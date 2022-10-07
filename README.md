@@ -16,10 +16,12 @@ Also added the function of displaying on the screen and writing to two files at 
       <code>Sender</code> - The sender of your message<br>
       <code>TypeMSG</code> - Your message type<br>
       <code>WriteTime)</code> - Record time, default <code>True</code><br>
+      
 <code>debug(View</code> - Record type, <code>txt</code> - needed to write to your log file, <code>str</code> - needed to out on screen<br>
       <code>TEXT</code> - Your text<br>
       <code>NickName</code> - Your nickname, default <code>root</code><br>
       <code>WriteTime)</code> - Record time, default <code>True</code><br>
+      
 <code>error(View</code> - Record type, <code>txt</code> - needed to write to your log file, <code>str</code> -needed to out on screen<br>
       <code>TEXT</code> - Your text<br>
       <code>NickName</code> - Your nickname, default <code>root</code><br>
@@ -27,6 +29,7 @@ Also added the function of displaying on the screen and writing to two files at 
       <code>TypeError</code> - Type Error your programm<br>
       <code>TypeMSG</code> - Your message type<br>
       <code>WriteTime)</code> - Record time, default <code>True</code><br>
+      
 <code>warning(View</code> - Record type, <code>txt</code> - needed to write to your log file, <code>str</code> - needed to out on screen<br>
       <code>TEXT</code> - Your text<br>
       <code>NickName</code> - Your nickname, default <code>root</code><br>
