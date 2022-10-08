@@ -3,7 +3,7 @@
 ![GitHub contributors](https://img.shields.io/badge/GitHub%20Contributors-1-blue)
 
 # Version
-![](https://img.shields.io/badge/1.0-rc3-brightgreen)
+![](https://img.shields.io/badge/1.2-rc3-brightgreen)
 
 # What Can??
 A blogger who can display information about your code anywhere, anytime</br>
