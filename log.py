@@ -2,6 +2,7 @@
 # Link GitHub -> https://github/Sos1ska
 # Link VK -> https://vk.com/nikitasos1ska
 import datetime
+from ColorSos import SetColor
 
 Root = 'root'
 
